@@ -1,6 +1,14 @@
-# 💫 About Me:
-👋 Hi, I'm Rishi T A  <br>🔐 Cybersecurity Enthusiast | 🌐 Web Designer  <br><br>I'm a Computer Science Engineering student passionate about cybersecurity, web development, and problem-solving.  <br>I enjoy building practical projects, learning new technologies, and participating in hackathons and CTF challenges.  <br>Currently focusing on strengthening my skills in secure web applications and real-world security concepts.<br>
+💫 About Me
 
+👋 Hi, I'm Rishi T A
+
+💻 Computer Science Engineering Student | 🤖 AI & Automation Enthusiast | 🌐 Full-Stack Developer | 🔐 Cybersecurity Enthusiast
+
+I'm a Computer Science Engineering student with a passion for building practical software solutions using Python, React, SQL, and AI-assisted development tools. I enjoy developing full-stack applications, automating workflows, and solving real-world problems through technology.
+
+During my AI & Automation internship, I gained hands-on experience in Python automation, workflow optimization, data processing, and quality assurance. Alongside academics, I serve as the Student Coordinator of the Alva's Cyber Security Club, where I organize technical workshops, cybersecurity awareness programs, and student events.
+
+I'm always eager to learn new technologies, participate in hackathons and CTF competitions, and continuously improve my software development and problem-solving skills. My goal is to build scalable applications while growing as a software engineer and contributing to impactful projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rishi T A) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishitr.143@gmail.com) 
